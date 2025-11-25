@@ -81,3 +81,7 @@ terraform destroy -auto-approve
 
 ## Security reminder
 Do not commit the generated private key (`*.pem`) to version control. Remove or add it to `.gitignore`.
+## Output
+![image](https://github.com/tejas-firke/Portfolio-projects/blob/8395b745463edcf47efd44e9dcbe551d3ef37834/Level%202/p1/Connecting%20to%20tf-instancee.png)
+
+![image](https://github.com/tejas-firke/Portfolio-projects/blob/8395b745463edcf47efd44e9dcbe551d3ef37834/Level%202/p1/curl-ip-tf-instance.png)
